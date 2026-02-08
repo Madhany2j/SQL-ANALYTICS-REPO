@@ -1,4 +1,4 @@
-**SALES PERFORMANCE ANALYSIS**
+# SALES PERFORMANCE ANALYSIS
                                                       
 **OVERVIEW:**
   This This project analyzes sales performance data using SQL to uncover trends, patterns, and business insights.
